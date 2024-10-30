@@ -1,0 +1,59 @@
+
+
+/* theme -1*/
+
+
+#theme-1 ul {
+  width: 100%;
+  height: 100%;
+  
+  list-style-type: none;
+}
+
+#theme-1 li {
+  background: rgba(255, 0, 0, 0.46);
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0 3px;
+  padding: 5px;
+  color:#000;
+}
+
+
+/*theme-2*/
+
+
+
+
+/*theme-4*/
+#theme-4{
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+}
+
+#theme-4 > div{
+    padding: 10px;
+    border-radius: 6px;
+    background: #00BF96;
+    display: inline-block;
+
+}
+
+
+#theme-4 div > span{
+    padding: 15px;
+    border-radius: 3px;
+    background: #00816A;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.smalltext{
+    padding-top: 5px;
+    font-size: 16px;
+}
+
